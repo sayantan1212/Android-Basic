@@ -7,3 +7,9 @@ myDemoFragment - Worked with Database Helper and its curriculam
 
 
 LocationApp - Google Map location 
+
+
+AppForService - Android Services which is udes for background tasks
+
+
+MyNewCameraApp - Basic camera
