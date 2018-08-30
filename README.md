@@ -13,3 +13,6 @@ AppForService - Android Services which is udes for background tasks
 
 
 MyNewCameraApp - Basic camera
+
+
+MemeApp - Meme making application
