@@ -16,3 +16,5 @@ MyNewCameraApp - Basic camera
 
 
 MemeApp - Meme making application
+
+NewFire - Firebase realtime connection and authentication 
